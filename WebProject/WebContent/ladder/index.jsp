@@ -59,9 +59,12 @@
             
         });
         
-        $('.#startBtn').click(function() {
+        $('#startBtn').click(function() {
             
-              alert("적성에안 맞어");
+            alert("게임 시작 ");
+            // 사다리 그리기 코드 
+            // 사다리 타기 코드 
+            
             
         });
         
